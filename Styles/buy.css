@@ -34,10 +34,11 @@
 th{
     /* border: 1px solid green; */
     /* width: 100px; */
-    padding: 10px 61px;
+    padding: 10px 60px;
     
     background-color: yellowgreen;
     margin-bottom: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 
